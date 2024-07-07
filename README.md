@@ -13,13 +13,17 @@ Photo from [Africana Entrepreneur](https://africanaentrepreneur.com)
 - To prepare the dataset for analysis.
 - To seek insights from the data to drive business decisions.
 
-## Project Activities
+## Project Activities 
+
+[View file](super-store-dashboard.pbix)
 - Data Preparation
 - Data Visualization
 - Time-Series Analysis
 - Advanced Analysis
 
-## Results
+## Key Insights
+- Sales trend increase towards end of the year.
+- Consumer Segment make the most transactions.
 
 [View Charts](super-store-visuals.pdf)
 
